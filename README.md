@@ -151,7 +151,7 @@ Currently in Gated Alpha phase. Sign up to be an early partner [here](https://ga
 
 ### Style Guide
 
-[Read more on "Style Guide" ->](/documents/StyleGuide.md)
+[Read more on "Style Guide" ->](/documents/StyleGuide.mdhttps://github.com/ethereum/solidity/releases/tag/v0.8.23)
 
 ### Core Contributors
 
